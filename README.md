@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">✨ Criando bugs desde 2022<br>📚 Atualmente estou aprendendo: Java Script | HTML | CSS | JAVA | React | MySql | TypeScript | <br>🎯 Objetivos:: Concluir a faculdade e me inserir no mercado de trabalho fazendo o que amo.<br>🎲 Curiosidade: Minha mãe me deu esse por causa de uma musica.</p>
+<p align="center">✨ Criando bugs desde 2022 <br>🎯 Objetivos:: Concluir a faculdade e me inserir no mercado de trabalho fazendo o que amo.<br>🎲 Curiosidade: Minha mãe me deu esse por causa de uma musica.</p>
 
 ###
 
